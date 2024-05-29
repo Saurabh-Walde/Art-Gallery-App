@@ -1,0 +1,45 @@
+--  Identify the museums with invalid city information in the given dataset
+
+--  Fetch all the paintings which are not displayed on any museums?
+
+-- How many paintings have an asking price of more than their regular price? 
+
+-- Identify the paintings whose asking price is less than 50% of its regular price
+
+-- Which country has the 3rd highest no of paintings?
+
+--  Identify the artist and the museum where the most expensive and least expensive painting is placed. 
+Display the artist name, sale_price, painting name, museum name, museum city and canvas label 
+
+-- Which museum has the most no of most popular painting style?
+
+-- Who are the top 5 most popular artist? (Popularity is defined based on most no of paintings done by an artist)
+
+-- Fetch the top 10 most famous painting subject
+
+-- Are there museuems without any paintings?
+
+--  How many museums are open every single day?
+
+-- Which artist has the most no of Portraits paintings outside USA?. Display artist name, no of paintings and the artist nationality.
+
+-- Which canva size costs the most?
+
+--  Display the country and the city with most no of museums. Output 2 seperate columns to mention the city and country. 
+If there are multiple value, seperate them with comma
+
+-- Which are the top 5 most popular museum? (Popularity is defined based on most no of paintings in a museum)
+
+-- Identify the artists whose paintings are displayed in multiple countries
+
+-- Which are the 3 most popular and 3 least popular painting styles?
+
+-- Delete duplicate records from work, product_size, subject and image_link tables
+
+-- Which museum is open for the longest during a day. Dispay museum name, state and hours open and which day?
+
+--  Museum_Hours table has 1 invalid entry. Identify it and remove it.
+
+-- Display the 3 least popular canva sizes
+
+-- Identify the museums which are open on both Sunday and Monday. Display museum name, city.
